@@ -1,5 +1,5 @@
 <div align="centre" width="300">
-<img height="200em" src="teksek.png"/>
+<img height="400em" src="teksek.png"/>
 
 <h3 align="center">
 
