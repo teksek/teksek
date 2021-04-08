@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="centre" width="300">
+<img height="300em" src="teksek.png"/>
 
-<!--
-**teksek/teksek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
 
-Here are some ideas to get you started:
+My discord server 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![dc](https://img.shields.io/badge/Server%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/suw4ddVnMX)
+</h3>
+
+<h3 align="center">
+
+Hey:wave:
+</h3>
+<div align="center" width="300">
+
+My name is Teksek. I like coding in C#
+
+
+![teksek stats](https://github-readme-stats.vercel.app/api?username=tekesek&show_icons=true&theme=dark)
+
+<h3 align="center">
+My favorite code language
+
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+</h3>
+
+<h3 align="center">
+
+Tools I use to code 
+
+![Visual Studio](https://img.shields.io/badge/Visual_Studio_2019-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+</h3>
