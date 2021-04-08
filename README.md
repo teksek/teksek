@@ -16,8 +16,7 @@ Hey:wave:
 
 My name is Teksek. I like coding in C#
 
-
-![teksek stats](https://github-readme-stats.vercel.app/api?username=tekesek&show_icons=true&theme=dark)
+![teksek stats](https://github-readme-stats.vercel.app/api?username=teksek&show_icons=true&theme=dark)
 
 <h3 align="center">
 My favorite code language
