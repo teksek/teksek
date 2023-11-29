@@ -24,7 +24,7 @@
 <td>
     <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/C++-b2f7ef??style=for-the-badge&logo=cplusplus&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/HTML-b2f7ef??style=flat&logo=html5&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/javascript-b2f7ef??style=flat&logo=javascript&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-b2f7ef??style=flat&logo=javascript&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-b2f7ef??style=flat&logo=c-sharp&logoColor=333533"></a>
     <br />
     <a href="#" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-f7d6e0?style=flat&logo=kotlin&logoColor=333533"></a>
@@ -33,7 +33,7 @@
 </td>
 <td>
     <a href="#" target="_blank"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Todoist" src="https://img.shields.io/badge/todoist-7bdff2?style=flat&logo=todoist&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-7bdff2?style=flat&logo=unrealengine&logoColor=333533"></a>
     <br />
     <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-7bdff2?style=flat&logo=github&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Spotify" src="https://img.shields.io/badge/spotify-7bdff2?style=flat&logo=spotify&logoColor=333533"></a>
