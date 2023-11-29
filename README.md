@@ -1,6 +1,6 @@
 ## Teksek
 
-![teksek](https://img.shields.io/badge/-tek-sek?labelColor=%2300FF32&color=%23FFAA00)
+![teksek](https://img.shields.io/badge/-teksek?labelColor=%2300FF32&color=%23FFAA00)
 
 <br />
 <div align="center"><strong>🦁</strong></div>
@@ -22,10 +22,10 @@
 </tr>
 <tr>
 <td>
-    <a href="#" target="_blank"><img alt="Scala" src="https://img.shields.io/badge/scala-b2f7ef?style=flat&logo=scala&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/sql-b2f7ef??style=for-the-badge&logo=postgresql&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=333533"></a>
     <br />
     <a href="#" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-f7d6e0?style=flat&logo=kotlin&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533"></a>
