@@ -25,7 +25,7 @@
     <a href="#" target="_blank"><img alt="C++" src="https://img.shields.io/badge/python-b2f7ef??style=for-the-badge&logo=python&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/java-b2f7ef??style=flat&logo=java&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533"></a>
-    <a href="#" target="_blank"><img alt="SQL" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="C#" src="https://img.shields.io/badge/C%23-b2f7ef??style=flat&logo=c-sharp&logoColor=333533"></a>
     <br />
     <a href="#" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-f7d6e0?style=flat&logo=kotlin&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/javascript-f7d6e0?style=flat&logo=javascript&logoColor=333533"></a>
