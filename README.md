@@ -1,6 +1,6 @@
 ## Teksek
 
-![teksek](https://img.shields.io/badge/tek-sek-?labelColor=%2300FF32&color=%23FFAA00)
+![teksek](https://img.shields.io/badge/-tek-sek?labelColor=%2300FF32&color=%23FFAA00)
 
 <br />
 <div align="center"><strong>🦁</strong></div>
