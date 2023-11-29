@@ -1,6 +1,8 @@
 ## Teksek 🚀🌌
 
 ![teksek](https://img.shields.io/badge/sek-tek?labelColor=%2300FF32&color=%23FFAA00)
+![CPU](https://img.shields.io/badge/Intel-Core_i5_13500-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6700_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 <br />
 <div align="center"><strong>🦁</strong></div>
@@ -32,7 +34,7 @@
     <a href="#" target="_blank"><img alt="Markdown" src="https://img.shields.io/badge/markdown-f7d6e0?style=flat&logo=markdown&logoColor=333533"></a>
 </td>
 <td>
-    <a href="#" target="_blank"><img alt="Manjaro" src="https://img.shields.io/badge/manjaro-7bdff2?style=flat&logo=manjaro&logoColor=333533"></a>
+    <a href="#" target="_blank"><img alt="Windows 11" src="https://img.shields.io/badge/windows_11-7bdff2?style=flat&logo=windows11&logoColor=333533"></a>
     <a href="#" target="_blank"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal Engine-7bdff2?style=flat&logo=unrealengine&logoColor=333533"></a>
     <br />
     <a href="#" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-7bdff2?style=flat&logo=github&logoColor=333533"></a>
