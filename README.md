@@ -1,10 +1,8 @@
 ## Teksek 🚀🌌
 
 <!--![teksek](https://img.shields.io/badge/sek-tek?style=flat&labelColor=%2300FF32&color=%23FFAA00)-->
-<div align="center">
-    ![CPU](https://img.shields.io/badge/Intel-Core_i5_13500-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-    ![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6700_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-</div>
+![CPU](https://img.shields.io/badge/Intel-Core_i5_13500-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![GPU](https://img.shields.io/badge/AMD-Radeon_RX_6700_XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 
 <br />
 <div align="center"><strong>🦁</strong></div>
