@@ -56,4 +56,4 @@
 
 ---
 
-> And in this moment, I swear, we are infinite!
+> I don't see the limit, assimilate yourself!
